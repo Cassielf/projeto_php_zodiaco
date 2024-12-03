@@ -1,0 +1,32 @@
+body {
+    background-color: #f8f8f8;
+    font-family: merriweather, sans-serif;
+}
+h1 {
+    color: #4a4a4a;
+}
+
+.d-grid gap-2 col-2 mx-auto {
+    align-items: center;
+    background-color: c;
+}
+
+.card-body{
+    background-color:rgb(238, 198, 123);
+}
+
+.navbar{
+    background-color:rgb(238, 198, 123);
+}
+
+#content-wrap {
+    padding-bottom: 0.5rem;    /* altura do rodapé */
+}
+  
+#footer {
+    position: absolute;
+    left:0;
+    bottom: 0;
+    width: 100%;
+    height: 1.5rem;
+}
